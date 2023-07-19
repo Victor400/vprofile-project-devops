@@ -5,9 +5,9 @@ variable AWS_REGION {
 variable AMIS {
   type = map
   default = {
-    us-east-2  = "ami-07efac79022b86107"
-    us-east-1  = "ami-06397100adf427136"
-    ap-south-1 = "ami-009110a2bf8d7dd0a"
+    us-east-2 = "ami-0430580de6244e02e"
+    us-east-1  = "ami-0261755bbcb8c4a84"
+    ap-south-1 = "ami-08e5424edfe926b43"
   }
 }
 
